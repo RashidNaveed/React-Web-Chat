@@ -6,6 +6,7 @@ A demo React project
 
 create an account by just signing up any test email can be accepted.
 
-download and run npm intall.
+# Download and run npm intall all dependencies.
+and run npm start to start project
 
 **Live Demo** [here](https://web-chat-e4216.web.app/)
