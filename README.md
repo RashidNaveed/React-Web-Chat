@@ -10,3 +10,5 @@ create an account by just signing up any test email can be accepted.
 and run npm start to start project
 
 **Live Demo** [here](https://web-chat-e4216.web.app/)
+
+**Update the firebase.js with you firebase firestore config file to run the project. The file can be found in src/services/firebase.js**
