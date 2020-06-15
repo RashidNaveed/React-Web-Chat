@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A demo React project
 
-#Web-Chat-App 
+# Web-Chat-App 
 
 create an account by just signing up any test email can be accepted.
 
