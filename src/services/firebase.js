@@ -1,13 +1,10 @@
 import * as firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyACJAl6Q1AWgdDdGhb7AAvXcEPXMZOszuI",
-  authDomain: "web-chat-e4216.firebaseapp.com",
-  databaseURL: "https://web-chat-e4216.firebaseio.com",
-  projectId: "web-chat-e4216",
-  storageBucket: "web-chat-e4216.appspot.com",
-  messagingSenderId: "847144583665",
-  appId: "1:847144583665:web:1bf13faebb624abfd14450",
+ // add your firebase configuration here
+  apiKey: '### FIREBASE API KEY ###',
+  authDomain: '### FIREBASE AUTH DOMAIN ###',
+  projectId: '### CLOUD FIRESTORE PROJECT ID ###'
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
